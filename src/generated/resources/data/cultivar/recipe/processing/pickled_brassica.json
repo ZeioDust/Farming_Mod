@@ -1,0 +1,9 @@
+{
+  "type": "cultivar:processing",
+  "count": 2,
+  "input": "cultivar:brassica_head",
+  "result": {
+    "id": "cultivar:pickled_brassica"
+  },
+  "ticks": 200
+}

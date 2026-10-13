@@ -1,0 +1,58 @@
+{
+  "base_yield": 4,
+  "max_temperature": 1.4,
+  "natural_alleles": {
+    "blight_resistance": [
+      "blight_susceptible",
+      "blight_partial",
+      "blight_resistant",
+      "blight_tolerant"
+    ],
+    "cold_tolerance": [
+      "cold_temperate",
+      "cold_tender",
+      "cold_hardy",
+      "cold_frostproof"
+    ],
+    "drought_tolerance": [
+      "drought_moderate",
+      "drought_xeric",
+      "drought_thirsty",
+      "drought_thrifty"
+    ],
+    "growth_rate": [
+      "growth_steady",
+      "growth_brisk",
+      "growth_vigorous",
+      "growth_slow"
+    ],
+    "light_need": [
+      "light_average",
+      "light_bright",
+      "light_sun_hungry",
+      "light_shade_tolerant"
+    ],
+    "mutation_rate": [
+      "mutation_standard",
+      "mutation_labile",
+      "mutation_volatile",
+      "mutation_stable"
+    ],
+    "nutrient_draw": [
+      "nutrient_balanced",
+      "nutrient_greedy",
+      "nutrient_frugal",
+      "nutrient_hungry"
+    ],
+    "yield": [
+      "yield_standard",
+      "yield_sparse",
+      "yield_ample",
+      "yield_heavy"
+    ]
+  },
+  "nutrient_use": 1.5,
+  "preferred_nutrient": "phosphorus",
+  "seeds_per_harvest": 3,
+  "ticks_per_stage": 1200
+}

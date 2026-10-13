@@ -1,0 +1,7 @@
+{
+  "parent": "cultivar:block/template_post",
+  "textures": {
+    "plate": "cultivar:block/trial_marker_plate",
+    "post": "cultivar:block/trial_marker"
+  }
+}

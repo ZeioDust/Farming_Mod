@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/lab_bottom",
+    "front": "cultivar:block/mutagen_chamber_front",
+    "side": "cultivar:block/mutagen_chamber_side",
+    "top": "cultivar:block/mutagen_chamber_top"
+  }
+}

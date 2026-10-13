@@ -1,0 +1,15 @@
+{
+  "color": -3618632,
+  "defeated_by": [
+    "blight_partial",
+    "blight_sentinel"
+  ],
+  "lethal_ticks": 6,
+  "species": [
+    "cultivar:brassica",
+    "cultivar:gourd",
+    "cultivar:maize"
+  ],
+  "spontaneous_chance": 0.005,
+  "transmission": 0.65
+}

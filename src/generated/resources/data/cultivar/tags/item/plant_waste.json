@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:wheat",
+    "minecraft:wheat_seeds",
+    "minecraft:short_grass",
+    "minecraft:fern",
+    "minecraft:kelp",
+    "minecraft:dried_kelp",
+    "minecraft:sugar_cane",
+    "minecraft:vine",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:beetroot",
+    "minecraft:melon_slice",
+    "minecraft:pumpkin",
+    "minecraft:apple",
+    "minecraft:hay_block",
+    "cultivar:wild_vine_block"
+  ]
+}

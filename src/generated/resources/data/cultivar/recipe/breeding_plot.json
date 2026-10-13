@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": "minecraft:bone_meal",
+    "C": "cultivar:compost",
+    "S": "cultivar:managed_soil"
+  },
+  "pattern": [
+    "SCS",
+    "SBS"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cultivar:breeding_plot"
+  }
+}

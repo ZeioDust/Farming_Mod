@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cultivar:block/wild_vine_block"
+    }
+  }
+}

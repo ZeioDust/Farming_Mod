@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:prime_harvest",
+  "criteria": {
+    "first_sale": {
+      "conditions": {
+        "action": "first_sale"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.first_sale.description"
+    },
+    "icon": {
+      "id": "cultivar:produce_exchange"
+    },
+    "title": {
+      "translate": "advancements.cultivar.first_sale.title"
+    }
+  },
+  "requirements": [
+    [
+      "first_sale"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

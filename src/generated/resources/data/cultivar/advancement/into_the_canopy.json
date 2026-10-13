@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "entered": {
+      "conditions": {
+        "to": "cultivar:canopy"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.into_the_canopy.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:canopy_key"
+    },
+    "title": {
+      "translate": "advancements.cultivar.into_the_canopy.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:glowstone",
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:glass_pane",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "IRI",
+    "IGI",
+    "PPP"
+  ],
+  "result": {
+    "id": "cultivar:grow_light"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "cultivar:processing",
+  "count": 2,
+  "input": "cultivar:starch",
+  "result": {
+    "id": "cultivar:bioplastic"
+  },
+  "ticks": 300
+}

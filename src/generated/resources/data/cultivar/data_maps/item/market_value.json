@@ -1,0 +1,64 @@
+{
+  "values": {
+    "cultivar:biofuel_cake": {
+      "emeralds": 0.35
+    },
+    "cultivar:bioplastic": {
+      "emeralds": 1.0
+    },
+    "cultivar:brassica_head": {
+      "emeralds": 0.14
+    },
+    "cultivar:clover_bundle": {
+      "emeralds": 0.06
+    },
+    "cultivar:field_meal": {
+      "emeralds": 0.25
+    },
+    "cultivar:flax_fiber": {
+      "emeralds": 0.1
+    },
+    "cultivar:gourd": {
+      "emeralds": 0.2
+    },
+    "cultivar:gourd_puree": {
+      "emeralds": 0.14
+    },
+    "cultivar:linen_canvas": {
+      "emeralds": 0.5
+    },
+    "cultivar:maize_cob": {
+      "emeralds": 0.12
+    },
+    "cultivar:pickled_brassica": {
+      "emeralds": 0.4
+    },
+    "cultivar:ration_pack": {
+      "emeralds": 1.5
+    },
+    "cultivar:ribbon_bronze": {
+      "emeralds": 2.0
+    },
+    "cultivar:ribbon_gold": {
+      "emeralds": 8.0
+    },
+    "cultivar:ribbon_silver": {
+      "emeralds": 4.0
+    },
+    "cultivar:soy_oil": {
+      "emeralds": 0.5
+    },
+    "cultivar:soybean_pod": {
+      "emeralds": 0.1
+    },
+    "cultivar:starch": {
+      "emeralds": 0.35
+    },
+    "cultivar:tuber": {
+      "emeralds": 0.1
+    },
+    "cultivar:wheatline_sheaf": {
+      "emeralds": 0.08
+    }
+  }
+}

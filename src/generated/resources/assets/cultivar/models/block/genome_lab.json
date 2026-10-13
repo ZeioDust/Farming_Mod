@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/lab_bottom",
+    "front": "cultivar:block/genome_lab_front",
+    "side": "cultivar:block/genome_lab_side",
+    "top": "cultivar:block/genome_lab_top"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/species.schema.json",
+  "title": "Cultivar species",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Growth and harvest numbers of a species. The file name is the species id (e.g. cultivar:maize). File: data/<ns>/cultivar/species/<id>.json",
+  "required": [
+    "ticks_per_stage",
+    "base_yield",
+    "seeds_per_harvest",
+    "preferred_nutrient",
+    "nutrient_use",
+    "max_temperature",
+    "natural_alleles"
+  ],
+  "properties": {
+    "ticks_per_stage": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "base_yield": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "seeds_per_harvest": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "preferred_nutrient": {
+      "enum": [
+        "nitrogen",
+        "phosphorus",
+        "potassium"
+      ]
+    },
+    "nutrient_use": {
+      "type": "number"
+    },
+    "max_temperature": {
+      "type": "number"
+    },
+    "natural_alleles": {
+      "type": "object",
+      "propertyNames": {
+        "enum": [
+          "yield",
+          "growth_rate",
+          "cold_tolerance",
+          "drought_tolerance",
+          "light_need",
+          "blight_resistance",
+          "nutrient_draw",
+          "mutation_rate"
+        ]
+      },
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

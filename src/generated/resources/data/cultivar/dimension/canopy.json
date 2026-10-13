@@ -1,0 +1,10 @@
+{
+  "type": "cultivar:canopy",
+  "generator": {
+    "type": "cultivar:canopy",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "cultivar:canopy_grove"
+    }
+  }
+}

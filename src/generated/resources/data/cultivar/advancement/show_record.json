@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:gold_ribbon",
+  "criteria": {
+    "show_record": {
+      "conditions": {
+        "action": "show_record"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.show_record.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "cultivar:show_bench"
+    },
+    "title": {
+      "translate": "advancements.cultivar.show_record.title"
+    }
+  },
+  "requirements": [
+    [
+      "show_record"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

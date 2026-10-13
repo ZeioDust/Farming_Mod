@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "fed=false": {
+      "model": "cultivar:block/irrigation_line"
+    },
+    "fed=true": {
+      "model": "cultivar:block/irrigation_line_fed"
+    }
+  }
+}

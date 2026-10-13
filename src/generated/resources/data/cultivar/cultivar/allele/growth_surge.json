@@ -1,0 +1,8 @@
+{
+  "code": 5,
+  "dominance": 0,
+  "gene": "growth_rate",
+  "mutation_only": true,
+  "mutation_weight": 2,
+  "value": 1.85
+}

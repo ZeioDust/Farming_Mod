@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/mutagen_chamber",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/mutagen_chamber"
+    },
+    "facing=south": {
+      "model": "cultivar:block/mutagen_chamber",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/mutagen_chamber",
+      "y": 270
+    }
+  }
+}

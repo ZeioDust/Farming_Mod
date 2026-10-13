@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/wood_bottom",
+    "front": "cultivar:block/contract_board_front",
+    "side": "cultivar:block/contract_board_side",
+    "top": "cultivar:block/contract_board_top"
+  }
+}

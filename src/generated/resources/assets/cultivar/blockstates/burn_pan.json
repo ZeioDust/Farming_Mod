@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "cultivar:block/burn_pan"
+    },
+    "lit=true": {
+      "model": "cultivar:block/burn_pan_lit"
+    }
+  }
+}

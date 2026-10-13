@@ -1,0 +1,8 @@
+{
+  "type": "cultivar:processing",
+  "count": 2,
+  "input": "cultivar:tuber",
+  "result": {
+    "id": "cultivar:starch"
+  }
+}

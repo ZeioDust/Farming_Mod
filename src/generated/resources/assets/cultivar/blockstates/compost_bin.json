@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/compost_bin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/compost_bin"
+    },
+    "facing=south": {
+      "model": "cultivar:block/compost_bin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/compost_bin",
+      "y": 270
+    }
+  }
+}

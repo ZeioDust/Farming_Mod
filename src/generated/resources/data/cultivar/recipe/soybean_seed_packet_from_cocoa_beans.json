@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cocoa_beans",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:soybean_seed_packet"
+  }
+}

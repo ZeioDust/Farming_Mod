@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/gene.schema.json",
+  "title": "Cultivar gene",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Display range, favourable direction and colour of one of the eight fixed genes. File: data/<ns>/cultivar/gene/<id>.json",
+  "required": [
+    "gene",
+    "display_min",
+    "display_max",
+    "higher_is_better"
+  ],
+  "properties": {
+    "gene": {
+      "enum": [
+        "yield",
+        "growth_rate",
+        "cold_tolerance",
+        "drought_tolerance",
+        "light_need",
+        "blight_resistance",
+        "nutrient_draw",
+        "mutation_rate"
+      ]
+    },
+    "display_min": {
+      "type": "number"
+    },
+    "display_max": {
+      "type": "number"
+    },
+    "higher_is_better": {
+      "type": "boolean"
+    },
+    "color": {
+      "type": "integer",
+      "description": "ARGB colour of the gene row bar"
+    }
+  }
+}

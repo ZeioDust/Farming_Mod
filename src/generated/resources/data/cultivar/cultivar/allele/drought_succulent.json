@@ -1,0 +1,8 @@
+{
+  "code": 5,
+  "dominance": 0,
+  "gene": "drought_tolerance",
+  "mutation_only": true,
+  "mutation_weight": 2,
+  "value": 0.05
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:melon_seeds",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:maize_seed_packet"
+  }
+}

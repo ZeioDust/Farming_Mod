@@ -1,0 +1,16 @@
+{
+  "values": [
+    "minecraft:farmland",
+    "cultivar:managed_soil",
+    "cultivar:breeding_plot",
+    "cultivar:depleted_soil",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:podzol",
+    "minecraft:rooted_dirt",
+    "minecraft:moss_block",
+    "cultivar:canopy_leafmass",
+    "cultivar:canopy_bark"
+  ]
+}

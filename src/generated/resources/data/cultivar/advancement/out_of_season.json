@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "out_of_season": {
+      "conditions": {
+        "action": "out_of_season"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.out_of_season.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:climate_controller"
+    },
+    "title": {
+      "translate": "advancements.cultivar.out_of_season.title"
+    }
+  },
+  "requirements": [
+    [
+      "out_of_season"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/show_bench",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/show_bench"
+    },
+    "facing=south": {
+      "model": "cultivar:block/show_bench",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/show_bench",
+      "y": 270
+    }
+  }
+}

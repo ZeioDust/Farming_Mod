@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "first_cross": {
+      "conditions": {
+        "action": "first_cross"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.first_cross.description"
+    },
+    "icon": {
+      "id": "cultivar:pollination_brush"
+    },
+    "title": {
+      "translate": "advancements.cultivar.first_cross.title"
+    }
+  },
+  "requirements": [
+    [
+      "first_cross"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

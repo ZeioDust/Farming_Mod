@@ -1,0 +1,40 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+logoFile="cultivar_logo.png"
+authors="Zeio_Dust"
+description='''
+Real plant breeding. Every seed carries a genome: cross plants, read their genes in a lab, and breed lines that crop better, shrug off blight and grow anywhere.
+Manage soil chemistry and greenhouses, grade your harvests from C to Prime, sell them at the Produce Exchange, fill contracts, process crops into goods, and master gene editing and show judging.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="jei"
+    type="optional"
+    versionRange="[29.43,)"
+    ordering="NONE"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="jade"
+    type="optional"
+    versionRange="[26.1.11,)"
+    ordering="NONE"
+    side="BOTH"

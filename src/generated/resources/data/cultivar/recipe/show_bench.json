@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "P": "minecraft:paper",
+    "W": "#minecraft:planks"
+  },
+  "pattern": [
+    "GPG",
+    "WWW",
+    "W W"
+  ],
+  "result": {
+    "id": "cultivar:show_bench"
+  }
+}

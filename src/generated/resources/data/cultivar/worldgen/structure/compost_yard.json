@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:site",
+  "biomes": "#cultivar:has_structure/compost_yard",
+  "kind": "compost_yard",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

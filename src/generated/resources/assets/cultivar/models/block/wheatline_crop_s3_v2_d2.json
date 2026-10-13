@@ -1,0 +1,6 @@
+{
+  "parent": "cultivar:block/crop_v2_d2",
+  "textures": {
+    "crop": "cultivar:block/wheatline_stage3"
+  }
+}

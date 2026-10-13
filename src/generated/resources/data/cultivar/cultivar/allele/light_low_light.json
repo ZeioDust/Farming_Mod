@@ -1,0 +1,8 @@
+{
+  "code": 5,
+  "dominance": 0,
+  "gene": "light_need",
+  "mutation_only": true,
+  "mutation_weight": 2,
+  "value": 4.0
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "cultivar:pollination_brush",
+    "G": "minecraft:glass",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "IGI",
+    "RBR",
+    "III"
+  ],
+  "result": {
+    "id": "cultivar:pollination_unit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "C": "cultivar:compost",
+    "D": "minecraft:dirt"
+  },
+  "pattern": [
+    "DD",
+    "DC",
+    "DD"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cultivar:managed_soil"
+  }
+}

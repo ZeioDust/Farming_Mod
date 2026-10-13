@@ -1,0 +1,20 @@
+{
+  "values": [
+    "cultivar:lime_hopper",
+    "cultivar:sulfur_hopper",
+    "cultivar:nutrient_spreader",
+    "cultivar:pollination_unit",
+    "cultivar:burn_pan",
+    "cultivar:genome_lab",
+    "cultivar:seed_bank",
+    "cultivar:seed_vault_drawer",
+    "cultivar:mutagen_chamber",
+    "cultivar:thermal_shock_unit",
+    "cultivar:grow_light",
+    "cultivar:humidifier",
+    "cultivar:dehumidifier",
+    "cultivar:climate_controller",
+    "cultivar:irrigation_line",
+    "cultivar:sprinkler"
+  ]
+}

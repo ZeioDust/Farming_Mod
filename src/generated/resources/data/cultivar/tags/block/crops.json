@@ -1,0 +1,13 @@
+{
+  "values": [
+    "cultivar:wheatline_crop",
+    "cultivar:maize_crop",
+    "cultivar:soybean_crop",
+    "cultivar:clover_crop",
+    "cultivar:tuber_crop",
+    "cultivar:brassica_crop",
+    "cultivar:gourd_crop",
+    "cultivar:fiber_flax_crop",
+    "cultivar:graft_union"
+  ]
+}

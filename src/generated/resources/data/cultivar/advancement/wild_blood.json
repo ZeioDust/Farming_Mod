@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:into_the_canopy",
+  "criteria": {
+    "wild_blood": {
+      "conditions": {
+        "action": "wild_blood"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.wild_blood.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "cultivar:wild_seed"
+    },
+    "title": {
+      "translate": "advancements.cultivar.wild_blood.title"
+    }
+  },
+  "requirements": [
+    [
+      "wild_blood"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

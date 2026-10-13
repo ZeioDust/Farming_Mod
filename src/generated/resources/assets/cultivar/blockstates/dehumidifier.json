@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/dehumidifier",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/dehumidifier"
+    },
+    "facing=south": {
+      "model": "cultivar:block/dehumidifier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/dehumidifier",
+      "y": 270
+    }
+  }
+}

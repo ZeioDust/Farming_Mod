@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:read_the_code",
+  "criteria": {
+    "mutant": {
+      "conditions": {
+        "action": "mutant"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.mutant.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:mutagen_vial"
+    },
+    "title": {
+      "translate": "advancements.cultivar.mutant.title"
+    }
+  },
+  "requirements": [
+    [
+      "mutant"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

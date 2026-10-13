@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cultivar:block/canopy_bark",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cultivar:block/canopy_bark"
+    },
+    "axis=z": {
+      "model": "cultivar:block/canopy_bark",
+      "x": 90
+    }
+  }
+}

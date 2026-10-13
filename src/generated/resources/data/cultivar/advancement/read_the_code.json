@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "read_the_code": {
+      "conditions": {
+        "action": "read_the_code"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.read_the_code.description"
+    },
+    "icon": {
+      "id": "cultivar:genome_card"
+    },
+    "title": {
+      "translate": "advancements.cultivar.read_the_code.title"
+    }
+  },
+  "requirements": [
+    [
+      "read_the_code"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

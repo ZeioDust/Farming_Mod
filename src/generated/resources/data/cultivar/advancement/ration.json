@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:prime_harvest",
+  "criteria": {
+    "ration": {
+      "conditions": {
+        "action": "ration"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.ration.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:ration_pack"
+    },
+    "title": {
+      "translate": "advancements.cultivar.ration.title"
+    }
+  },
+  "requirements": [
+    [
+      "ration"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

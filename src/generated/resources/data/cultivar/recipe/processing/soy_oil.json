@@ -1,0 +1,9 @@
+{
+  "type": "cultivar:processing",
+  "count": 3,
+  "input": "cultivar:soybean_pod",
+  "result": {
+    "id": "cultivar:soy_oil"
+  },
+  "ticks": 200
+}

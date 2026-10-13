@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:beetroot_seeds",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:brassica_seed_packet"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "rotation": {
+      "conditions": {
+        "action": "rotation"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.rotation.description"
+    },
+    "icon": {
+      "id": "cultivar:clover_bundle"
+    },
+    "title": {
+      "translate": "advancements.cultivar.rotation.title"
+    }
+  },
+  "requirements": [
+    [
+      "rotation"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

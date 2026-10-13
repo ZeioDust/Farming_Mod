@@ -1,0 +1,5 @@
+{
+  "type": "cultivar:composting",
+  "charge": 15,
+  "input": "#cultivar:plant_waste"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cultivar:block/template_portal",
+  "textures": {
+    "portal": {
+      "force_translucent": true,
+      "sprite": "cultivar:block/canopy_portal"
+    }
+  }
+}

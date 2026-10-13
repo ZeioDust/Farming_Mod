@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cultivar:bread_from_wheatline"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wheatline_sheaf": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cultivar:wheatline_sheaf"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wheatline_sheaf"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cultivar:bread_from_wheatline"
+    ]
+  }
+}

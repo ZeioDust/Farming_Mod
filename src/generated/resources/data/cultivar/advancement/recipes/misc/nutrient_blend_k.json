@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_compost": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cultivar:compost"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cultivar:nutrient_blend_k"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_compost"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cultivar:nutrient_blend_k"
+    ]
+  }
+}

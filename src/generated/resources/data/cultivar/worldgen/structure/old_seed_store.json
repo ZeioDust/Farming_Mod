@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:site",
+  "biomes": "#cultivar:has_structure/old_seed_store",
+  "kind": "old_seed_store",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

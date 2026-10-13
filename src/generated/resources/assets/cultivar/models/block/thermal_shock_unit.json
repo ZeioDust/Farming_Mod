@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/metal_bottom",
+    "front": "cultivar:block/thermal_shock_unit_front",
+    "side": "cultivar:block/thermal_shock_unit_side",
+    "top": "cultivar:block/thermal_shock_unit_top"
+  }
+}

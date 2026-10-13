@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:read_the_code",
+  "criteria": {
+    "gene_edit": {
+      "conditions": {
+        "action": "gene_edit"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.gene_edit.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:gene_editor"
+    },
+    "title": {
+      "translate": "advancements.cultivar.gene_edit.title"
+    }
+  },
+  "requirements": [
+    [
+      "gene_edit"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,9 @@
+{
+  "type": "cultivar:processing",
+  "count": 3,
+  "input": "cultivar:flax_fiber",
+  "result": {
+    "id": "cultivar:linen_canvas"
+  },
+  "ticks": 240
+}

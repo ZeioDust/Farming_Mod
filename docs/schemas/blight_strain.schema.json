@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/blight_strain.schema.json",
+  "title": "Cultivar blight_strain",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "A blight strain. File: data/<ns>/cultivar/blight_strain/<id>.json",
+  "required": [
+    "species",
+    "transmission",
+    "lethal_ticks",
+    "spontaneous_chance",
+    "defeated_by"
+  ],
+  "properties": {
+    "species": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9_.-]+:[a-z0-9_./-]+$"
+      }
+    },
+    "transmission": {
+      "type": "number"
+    },
+    "lethal_ticks": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "spontaneous_chance": {
+      "type": "number"
+    },
+    "defeated_by": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "BLIGHT_RESISTANCE allele ids that give immunity when expressed"
+    },
+    "color": {
+      "type": "integer"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:site",
+  "biomes": "#cultivar:has_structure/abandoned_trial_field",
+  "kind": "abandoned_trial_field",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

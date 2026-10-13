@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/allele.schema.json",
+  "title": "Cultivar allele",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "One allele. The file name is the allele id. File: data/<ns>/cultivar/allele/<id>.json",
+  "required": [
+    "gene",
+    "code",
+    "value",
+    "dominance"
+  ],
+  "properties": {
+    "gene": {
+      "enum": [
+        "yield",
+        "growth_rate",
+        "cold_tolerance",
+        "drought_tolerance",
+        "light_need",
+        "blight_resistance",
+        "nutrient_draw",
+        "mutation_rate"
+      ]
+    },
+    "code": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 255,
+      "description": "Byte stored in genomes; unique within the gene"
+    },
+    "value": {
+      "type": "number",
+      "description": "Effect value in the gene's units"
+    },
+    "dominance": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 15
+    },
+    "mutation_only": {
+      "type": "boolean",
+      "default": false
+    },
+    "wild": {
+      "type": "boolean",
+      "default": false
+    },
+    "mutation_weight": {
+      "type": "integer",
+      "minimum": 0,
+      "default": 10
+    }
+  }
+}

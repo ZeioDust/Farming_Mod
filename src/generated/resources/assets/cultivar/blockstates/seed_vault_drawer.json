@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/seed_vault_drawer",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/seed_vault_drawer"
+    },
+    "facing=south": {
+      "model": "cultivar:block/seed_vault_drawer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/seed_vault_drawer",
+      "y": 270
+    }
+  }
+}

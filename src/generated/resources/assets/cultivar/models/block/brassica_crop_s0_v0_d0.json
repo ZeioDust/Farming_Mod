@@ -1,0 +1,6 @@
+{
+  "parent": "cultivar:block/crop_v0_d0",
+  "textures": {
+    "crop": "cultivar:block/brassica_stage0"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:read_the_code",
+  "criteria": {
+    "dominant": {
+      "conditions": {
+        "action": "dominant"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.dominant.description"
+    },
+    "icon": {
+      "id": "cultivar:genome_card"
+    },
+    "title": {
+      "translate": "advancements.cultivar.dominant.title"
+    }
+  },
+  "requirements": [
+    [
+      "dominant"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

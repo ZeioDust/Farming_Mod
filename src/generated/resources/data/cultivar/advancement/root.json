@@ -1,0 +1,34 @@
+{
+  "criteria": {
+    "has_seed": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#cultivar:seed_packets"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:gui/advancements/backgrounds/husbandry",
+    "description": {
+      "translate": "advancements.cultivar.root.description"
+    },
+    "icon": {
+      "id": "cultivar:wheatline_seed_packet"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.cultivar.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "has_seed"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

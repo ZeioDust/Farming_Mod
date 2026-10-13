@@ -1,0 +1,5 @@
+{
+  "type": "cultivar:composting",
+  "charge": 20,
+  "input": "cultivar:canopy_leafmass"
+}

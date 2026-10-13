@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/wood_bottom",
+    "front": "cultivar:block/compost_bin_front",
+    "side": "cultivar:block/compost_bin_side",
+    "top": "cultivar:block/compost_bin_top"
+  }
+}

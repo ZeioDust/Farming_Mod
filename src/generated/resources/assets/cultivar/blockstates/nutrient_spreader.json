@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/nutrient_spreader",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/nutrient_spreader"
+    },
+    "facing=south": {
+      "model": "cultivar:block/nutrient_spreader",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/nutrient_spreader",
+      "y": 270
+    }
+  }
+}

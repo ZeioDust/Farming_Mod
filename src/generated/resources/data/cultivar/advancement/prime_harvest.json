@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:root",
+  "criteria": {
+    "prime_harvest": {
+      "conditions": {
+        "action": "prime_harvest"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.prime_harvest.description"
+    },
+    "icon": {
+      "id": "cultivar:gourd"
+    },
+    "title": {
+      "translate": "advancements.cultivar.prime_harvest.title"
+    }
+  },
+  "requirements": [
+    [
+      "prime_harvest"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

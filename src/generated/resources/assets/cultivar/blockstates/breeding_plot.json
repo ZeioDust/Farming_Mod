@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=1": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=2": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=3": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=4": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=5": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=6": {
+      "model": "cultivar:block/breeding_plot"
+    },
+    "moisture=7": {
+      "model": "cultivar:block/breeding_plot_moist"
+    }
+  }
+}

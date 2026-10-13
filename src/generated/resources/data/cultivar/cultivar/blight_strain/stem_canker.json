@@ -1,0 +1,16 @@
+{
+  "color": -9815510,
+  "defeated_by": [
+    "blight_tolerant",
+    "blight_wild_canopy"
+  ],
+  "lethal_ticks": 12,
+  "species": [
+    "cultivar:wheatline",
+    "cultivar:tuber",
+    "cultivar:gourd",
+    "cultivar:brassica"
+  ],
+  "spontaneous_chance": 0.002,
+  "transmission": 0.4
+}

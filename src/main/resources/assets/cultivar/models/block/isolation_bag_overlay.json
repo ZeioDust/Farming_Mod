@@ -1,0 +1,41 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "cultivar:block/isolation_bag_overlay",
+    "bag": "cultivar:block/isolation_bag_overlay"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        0,
+        3
+      ],
+      "to": [
+        13,
+        14,
+        13
+      ],
+      "faces": {
+        "north": {
+          "texture": "#bag"
+        },
+        "south": {
+          "texture": "#bag"
+        },
+        "east": {
+          "texture": "#bag"
+        },
+        "west": {
+          "texture": "#bag"
+        },
+        "up": {
+          "texture": "#bag"
+        },
+        "down": {
+          "texture": "#bag"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/ph_band.schema.json",
+  "title": "Cultivar ph_band",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Optimal pH band of a species. File: data/<ns>/cultivar/ph_band/<id>.json",
+  "required": [
+    "species",
+    "min",
+    "max"
+  ],
+  "properties": {
+    "species": {
+      "type": "string",
+      "pattern": "^[a-z0-9_.-]+:[a-z0-9_./-]+$"
+    },
+    "min": {
+      "type": "number"
+    },
+    "max": {
+      "type": "number"
+    },
+    "lethal_margin": {
+      "type": "number",
+      "default": 1.5
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_managed_soil": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cultivar:managed_soil"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cultivar:breeding_plot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_managed_soil"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cultivar:breeding_plot"
+    ]
+  }
+}

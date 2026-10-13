@@ -1,0 +1,8 @@
+{
+  "type": "cultivar:processing",
+  "count": 2,
+  "input": "cultivar:maize_cob",
+  "result": {
+    "id": "cultivar:starch"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": "minecraft:furnace",
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:packed_ice"
+  },
+  "pattern": [
+    "III",
+    "FIP",
+    "III"
+  ],
+  "result": {
+    "id": "cultivar:thermal_shock_unit"
+  }
+}

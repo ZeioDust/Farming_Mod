@@ -1,0 +1,7 @@
+{
+  "parent": "cultivar:block/template_sprinkler",
+  "textures": {
+    "side": "cultivar:block/sprinkler",
+    "top": "cultivar:block/sprinkler_top"
+  }
+}

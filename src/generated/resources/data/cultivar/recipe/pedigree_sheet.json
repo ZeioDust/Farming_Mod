@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:paper",
+    "minecraft:black_dye"
+  ],
+  "result": {
+    "count": 4,
+    "id": "cultivar:pedigree_sheet"
+  }
+}

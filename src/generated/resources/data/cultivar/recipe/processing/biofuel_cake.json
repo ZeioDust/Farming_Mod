@@ -1,0 +1,8 @@
+{
+  "type": "cultivar:processing",
+  "count": 4,
+  "input": "cultivar:clover_bundle",
+  "result": {
+    "id": "cultivar:biofuel_cake"
+  }
+}

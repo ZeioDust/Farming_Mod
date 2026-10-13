@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/wood_bottom",
+    "front": "cultivar:block/show_bench_front",
+    "side": "cultivar:block/show_bench_side",
+    "top": "cultivar:block/show_bench_top"
+  }
+}

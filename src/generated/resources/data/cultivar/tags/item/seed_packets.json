@@ -1,0 +1,13 @@
+{
+  "values": [
+    "cultivar:wheatline_seed_packet",
+    "cultivar:maize_seed_packet",
+    "cultivar:soybean_seed_packet",
+    "cultivar:clover_seed_packet",
+    "cultivar:tuber_seed_packet",
+    "cultivar:brassica_seed_packet",
+    "cultivar:gourd_seed_packet",
+    "cultivar:fiber_flax_seed_packet",
+    "cultivar:wild_seed"
+  ]
+}

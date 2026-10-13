@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/gene_editor",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/gene_editor"
+    },
+    "facing=south": {
+      "model": "cultivar:block/gene_editor",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/gene_editor",
+      "y": 270
+    }
+  }
+}

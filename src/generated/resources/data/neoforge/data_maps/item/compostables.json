@@ -1,0 +1,61 @@
+{
+  "values": {
+    "cultivar:brassica_head": {
+      "chance": 0.65
+    },
+    "cultivar:brassica_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:canopy_leafmass": {
+      "chance": 0.5
+    },
+    "cultivar:clover_bundle": {
+      "chance": 0.65
+    },
+    "cultivar:clover_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:fiber_flax_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:flax_fiber": {
+      "chance": 0.65
+    },
+    "cultivar:gourd": {
+      "chance": 0.65
+    },
+    "cultivar:gourd_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:green_manure": {
+      "chance": 0.85
+    },
+    "cultivar:maize_cob": {
+      "chance": 0.65
+    },
+    "cultivar:maize_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:soybean_pod": {
+      "chance": 0.65
+    },
+    "cultivar:soybean_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:tuber": {
+      "chance": 0.65
+    },
+    "cultivar:tuber_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:wheatline_seed_packet": {
+      "chance": 0.3
+    },
+    "cultivar:wheatline_sheaf": {
+      "chance": 0.65
+    },
+    "cultivar:wild_vine_block": {
+      "chance": 0.5
+    }
+  }
+}

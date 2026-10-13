@@ -1,0 +1,8 @@
+{
+  "type": "cultivar:crop_patch",
+  "config": {
+    "min_stage": 2,
+    "spread": 3,
+    "tries": 10
+  }
+}

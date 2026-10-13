@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:chest",
+    "I": "minecraft:iron_ingot",
+    "P": "#minecraft:planks"
+  },
+  "pattern": [
+    "PIP",
+    "PCP",
+    "PIP"
+  ],
+  "result": {
+    "count": 2,
+    "id": "cultivar:seed_vault_drawer"
+  }
+}

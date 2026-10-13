@@ -1,0 +1,5 @@
+{
+  "type": "cultivar:composting",
+  "charge": 25,
+  "input": "#cultivar:produce"
+}

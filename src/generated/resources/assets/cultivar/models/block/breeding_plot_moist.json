@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "cultivar:block/breeding_plot_side",
+    "top": "cultivar:block/breeding_plot_top_moist"
+  }
+}

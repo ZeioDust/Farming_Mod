@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": "minecraft:hopper",
+    "I": "minecraft:iron_ingot",
+    "L": "cultivar:sulfur_powder"
+  },
+  "pattern": [
+    "ILI",
+    " H "
+  ],
+  "result": {
+    "id": "cultivar:sulfur_hopper"
+  }
+}

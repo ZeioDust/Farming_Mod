@@ -1,0 +1,15 @@
+{
+  "color": -8754630,
+  "defeated_by": [
+    "blight_resistant",
+    "blight_wild_canopy"
+  ],
+  "lethal_ticks": 8,
+  "species": [
+    "cultivar:wheatline",
+    "cultivar:maize",
+    "cultivar:fiber_flax"
+  ],
+  "spontaneous_chance": 0.004,
+  "transmission": 0.55
+}

@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:site",
+  "biomes": "#cultivar:has_structure/canopy_platform",
+  "kind": "canopy_platform",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

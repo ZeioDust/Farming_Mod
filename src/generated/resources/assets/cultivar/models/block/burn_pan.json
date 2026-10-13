@@ -1,0 +1,6 @@
+{
+  "parent": "cultivar:block/template_pan",
+  "textures": {
+    "pan": "cultivar:block/burn_pan"
+  }
+}

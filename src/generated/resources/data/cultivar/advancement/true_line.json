@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:first_cross",
+  "criteria": {
+    "true_line": {
+      "conditions": {
+        "action": "true_line"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.true_line.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:maize_seed_packet"
+    },
+    "title": {
+      "translate": "advancements.cultivar.true_line.title"
+    }
+  },
+  "requirements": [
+    [
+      "true_line"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

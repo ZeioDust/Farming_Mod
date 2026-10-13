@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "cultivar:block/canopy_bark_top",
+    "side": "cultivar:block/canopy_bark_side"
+  }
+}

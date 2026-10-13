@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": "minecraft:glass_pane",
+    "N": "minecraft:gold_nugget",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    " N ",
+    "NGN",
+    " S "
+  ],
+  "result": {
+    "id": "cultivar:hand_lens"
+  }
+}

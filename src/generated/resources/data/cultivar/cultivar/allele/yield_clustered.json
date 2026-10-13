@@ -1,0 +1,8 @@
+{
+  "code": 6,
+  "dominance": 1,
+  "gene": "yield",
+  "mutation_only": true,
+  "mutation_weight": 2,
+  "value": 1.8
+}

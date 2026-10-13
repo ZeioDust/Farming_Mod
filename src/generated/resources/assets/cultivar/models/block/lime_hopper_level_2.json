@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/metal_bottom",
+    "front": "cultivar:block/lime_hopper_front_2",
+    "side": "cultivar:block/hopper_side",
+    "top": "cultivar:block/lime_hopper_top"
+  }
+}

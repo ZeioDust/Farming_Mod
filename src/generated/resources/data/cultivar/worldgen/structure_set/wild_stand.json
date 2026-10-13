@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 734526407,
+    "separation": 3,
+    "spacing": 10
+  },
+  "structures": [
+    {
+      "structure": "cultivar:wild_stand",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat_seeds",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:wheatline_seed_packet"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "#cultivar:seed_packets"
+  ],
+  "result": {
+    "id": "cultivar:field_manual"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 734526402,
+    "separation": 12,
+    "spacing": 38
+  },
+  "structures": [
+    {
+      "structure": "cultivar:ruined_greenhouse",
+      "weight": 1
+    }
+  ]
+}

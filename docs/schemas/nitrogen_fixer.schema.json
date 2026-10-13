@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cultivar.mod/schemas/nitrogen_fixer.schema.json",
+  "title": "Cultivar nitrogen_fixer",
+  "type": "object",
+  "additionalProperties": false,
+  "description": "Marks a species as nitrogen-fixing. File: data/<ns>/cultivar/nitrogen_fixer/<id>.json",
+  "required": [
+    "species",
+    "nitrogen_per_stage"
+  ],
+  "properties": {
+    "species": {
+      "type": "string",
+      "pattern": "^[a-z0-9_.-]+:[a-z0-9_./-]+$"
+    },
+    "nitrogen_per_stage": {
+      "type": "number"
+    }
+  }
+}

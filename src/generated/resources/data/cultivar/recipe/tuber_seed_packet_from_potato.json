@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:potato",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:tuber_seed_packet"
+  }
+}

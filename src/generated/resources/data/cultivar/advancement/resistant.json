@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:first_cross",
+  "criteria": {
+    "resistant": {
+      "conditions": {
+        "action": "resistant"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.resistant.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "cultivar:isolation_screen"
+    },
+    "title": {
+      "translate": "advancements.cultivar.resistant.title"
+    }
+  },
+  "requirements": [
+    [
+      "resistant"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:gene_edit",
+  "criteria": {
+    "atlas_complete": {
+      "conditions": {
+        "action": "atlas_complete"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.cultivar.atlas_complete.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "cultivar:genome_card"
+    },
+    "title": {
+      "translate": "advancements.cultivar.atlas_complete.title"
+    }
+  },
+  "requirements": [
+    [
+      "atlas_complete"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

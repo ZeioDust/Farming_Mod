@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cultivar:compost",
+    "cultivar:clover_bundle",
+    "cultivar:soybean_pod"
+  ],
+  "result": {
+    "count": 2,
+    "id": "cultivar:nutrient_blend_n"
+  }
+}

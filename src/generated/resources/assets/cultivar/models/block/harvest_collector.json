@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/wood_bottom",
+    "front": "cultivar:block/harvest_collector_front",
+    "side": "cultivar:block/harvest_collector_side",
+    "top": "cultivar:block/harvest_collector_top"
+  }
+}

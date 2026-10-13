@@ -1,0 +1,13 @@
+{
+  "type": "cultivar:add_item_chance",
+  "chance": 0.25,
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/woodland_mansion"
+    }
+  ],
+  "items": [
+    "cultivar:canopy_resin"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:site",
+  "biomes": "#cultivar:has_structure/wild_stand",
+  "kind": "wild_stand",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

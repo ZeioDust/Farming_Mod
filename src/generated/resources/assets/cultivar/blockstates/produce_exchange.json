@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/produce_exchange",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/produce_exchange"
+    },
+    "facing=south": {
+      "model": "cultivar:block/produce_exchange",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/produce_exchange",
+      "y": 270
+    }
+  }
+}

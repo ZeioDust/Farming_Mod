@@ -1,0 +1,8 @@
+{
+  "type": "cultivar:processing",
+  "count": 2,
+  "input": "cultivar:wheatline_sheaf",
+  "result": {
+    "id": "cultivar:field_meal"
+  }
+}

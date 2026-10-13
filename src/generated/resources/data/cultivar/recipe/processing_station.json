@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:grindstone",
+    "I": "minecraft:iron_ingot",
+    "P": "minecraft:piston",
+    "S": "minecraft:smooth_stone"
+  },
+  "pattern": [
+    "IGI",
+    "PSP",
+    "SSS"
+  ],
+  "result": {
+    "id": "cultivar:processing_station"
+  }
+}

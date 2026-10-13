@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:true_line",
+  "criteria": {
+    "banked": {
+      "conditions": {
+        "action": "banked"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.banked.description"
+    },
+    "icon": {
+      "id": "cultivar:seed_bank"
+    },
+    "title": {
+      "translate": "advancements.cultivar.banked.title"
+    }
+  },
+  "requirements": [
+    [
+      "banked"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": "cultivar:wheatline_sheaf"
+  },
+  "pattern": [
+    "WWW"
+  ],
+  "result": {
+    "id": "minecraft:bread"
+  }
+}

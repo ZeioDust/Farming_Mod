@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": "cultivar:gene_editor_blueprint",
+    "D": "minecraft:diamond",
+    "L": "cultivar:genome_lab",
+    "M": "cultivar:mutagen_chamber",
+    "P": "cultivar:bioplastic"
+  },
+  "pattern": [
+    "PDP",
+    "LBM",
+    "PDP"
+  ],
+  "result": {
+    "id": "cultivar:gene_editor"
+  }
+}

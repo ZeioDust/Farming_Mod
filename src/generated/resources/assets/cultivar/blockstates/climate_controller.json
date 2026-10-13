@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/climate_controller",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/climate_controller"
+    },
+    "facing=south": {
+      "model": "cultivar:block/climate_controller",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/climate_controller",
+      "y": 270
+    }
+  }
+}

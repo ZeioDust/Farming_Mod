@@ -1,0 +1,6 @@
+{
+  "parent": "cultivar:block/crop_v2_d1",
+  "textures": {
+    "crop": "cultivar:block/tuber_stage1"
+  }
+}

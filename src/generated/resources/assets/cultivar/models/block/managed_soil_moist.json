@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "cultivar:block/managed_soil_side",
+    "top": "cultivar:block/managed_soil_top_moist"
+  }
+}

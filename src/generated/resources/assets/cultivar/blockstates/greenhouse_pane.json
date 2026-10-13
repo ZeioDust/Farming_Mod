@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cultivar:block/greenhouse_pane"
+    }
+  }
+}

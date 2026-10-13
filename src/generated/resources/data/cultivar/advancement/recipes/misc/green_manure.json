@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_clover_bundle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "cultivar:clover_bundle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "cultivar:green_manure"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_clover_bundle"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "cultivar:green_manure"
+    ]
+  }
+}

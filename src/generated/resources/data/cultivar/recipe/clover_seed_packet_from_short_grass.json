@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:short_grass",
+    "minecraft:paper"
+  ],
+  "result": {
+    "id": "cultivar:clover_seed_packet"
+  }
+}

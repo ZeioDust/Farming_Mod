@@ -1,0 +1,15 @@
+{
+  "color": -10859974,
+  "defeated_by": [
+    "blight_wild_canopy",
+    "blight_sentinel"
+  ],
+  "lethal_ticks": 10,
+  "species": [
+    "cultivar:soybean",
+    "cultivar:clover",
+    "cultivar:tuber"
+  ],
+  "spontaneous_chance": 0.003,
+  "transmission": 0.45
+}

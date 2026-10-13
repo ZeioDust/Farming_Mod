@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "minecraft:copper_ingot",
+    "I": "minecraft:iron_ingot",
+    "L": "cultivar:irrigation_line"
+  },
+  "pattern": [
+    " C ",
+    "CLC",
+    " I "
+  ],
+  "result": {
+    "id": "cultivar:sprinkler"
+  }
+}

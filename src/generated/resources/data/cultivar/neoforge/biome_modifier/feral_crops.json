@@ -1,0 +1,7 @@
+{
+  "type": "cultivar:config_gated_features",
+  "biomes": "#cultivar:feral_crops",
+  "features": "cultivar:feral_crop_patch",
+  "gate": "geneticsEnabled",
+  "step": "vegetal_decoration"
+}

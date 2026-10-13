@@ -1,0 +1,29 @@
+{
+  "parent": "cultivar:first_sale",
+  "criteria": {
+    "first_contract": {
+      "conditions": {
+        "action": "first_contract"
+      },
+      "trigger": "cultivar:action"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.cultivar.first_contract.description"
+    },
+    "icon": {
+      "id": "cultivar:contract_board"
+    },
+    "title": {
+      "translate": "advancements.cultivar.first_contract.title"
+    }
+  },
+  "requirements": [
+    [
+      "first_contract"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

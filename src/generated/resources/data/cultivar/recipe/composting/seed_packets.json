@@ -1,0 +1,5 @@
+{
+  "type": "cultivar:composting",
+  "charge": 10,
+  "input": "#cultivar:seed_packets"
+}

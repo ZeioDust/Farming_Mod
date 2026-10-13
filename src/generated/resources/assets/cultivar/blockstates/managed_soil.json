@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=1": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=2": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=3": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=4": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=5": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=6": {
+      "model": "cultivar:block/managed_soil"
+    },
+    "moisture=7": {
+      "model": "cultivar:block/managed_soil_moist"
+    }
+  }
+}

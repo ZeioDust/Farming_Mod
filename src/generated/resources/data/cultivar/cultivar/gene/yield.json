@@ -1,0 +1,7 @@
+{
+  "color": -2052032,
+  "display_max": 2.5,
+  "display_min": 0.1,
+  "gene": "yield",
+  "higher_is_better": true
+}

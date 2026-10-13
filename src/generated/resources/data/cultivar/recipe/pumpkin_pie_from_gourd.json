@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cultivar:gourd",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "minecraft:pumpkin_pie"
+  }
+}

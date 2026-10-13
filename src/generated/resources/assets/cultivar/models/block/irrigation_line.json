@@ -1,0 +1,6 @@
+{
+  "parent": "cultivar:block/template_pipe",
+  "textures": {
+    "pipe": "cultivar:block/irrigation_line"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/humidifier",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/humidifier"
+    },
+    "facing=south": {
+      "model": "cultivar:block/humidifier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/humidifier",
+      "y": 270
+    }
+  }
+}

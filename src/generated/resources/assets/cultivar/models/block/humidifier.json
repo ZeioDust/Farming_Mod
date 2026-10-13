@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "cultivar:block/lab_bottom",
+    "front": "cultivar:block/humidifier_front",
+    "side": "cultivar:block/humidifier_side",
+    "top": "cultivar:block/humidifier_top"
+  }
+}

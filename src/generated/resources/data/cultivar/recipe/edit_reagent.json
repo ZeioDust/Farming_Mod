@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "cultivar:mutagen_vial",
+    "cultivar:canopy_resin",
+    "cultivar:bioplastic",
+    "cultivar:field_meal"
+  ],
+  "result": {
+    "id": "cultivar:edit_reagent"
+  }
+}

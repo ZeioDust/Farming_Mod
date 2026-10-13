@@ -1,0 +1,669 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "0",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "0",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "0",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "0",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "0",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "0",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "0",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "0",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s0_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "0",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "1",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "1",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "1",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "1",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "1",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "1",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "1",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "1",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s1_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "1",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "2",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "2",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "2",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "2",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "2",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "2",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "2",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "2",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s2_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "2",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "3",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "3",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "3",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "3",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "3",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "3",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "3",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "3",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s3_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "3",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "4",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "4",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "4",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "4",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "4",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "4",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "4",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "4",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s4_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "4",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "5",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "5",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "5",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "5",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "5",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "5",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "5",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "5",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s5_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "5",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v0_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "6",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v0_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "6",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v0_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "6",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v1_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "6",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v1_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "6",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v1_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "6",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v2_d0"
+      },
+      "when": {
+        "density": "0",
+        "stage": "6",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v2_d1"
+      },
+      "when": {
+        "density": "1",
+        "stage": "6",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/gourd_crop_s6_v2_d2"
+      },
+      "when": {
+        "density": "2",
+        "stage": "6",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/blight_marker_v0"
+      },
+      "when": {
+        "blighted": "true",
+        "vigor": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/blight_marker_v1"
+      },
+      "when": {
+        "blighted": "true",
+        "vigor": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/blight_marker_v2"
+      },
+      "when": {
+        "blighted": "true",
+        "vigor": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "cultivar:block/isolation_bag_overlay"
+      },
+      "when": {
+        "bagged": "true"
+      }
+    }
+  ]
+}

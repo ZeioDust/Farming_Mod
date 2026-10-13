@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "cultivar:block/seed_bank",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "cultivar:block/seed_bank"
+    },
+    "facing=south": {
+      "model": "cultivar:block/seed_bank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cultivar:block/seed_bank",
+      "y": 270
+    }
+  }
+}
